@@ -1,1 +1,2 @@
-Generic Data Processing for Text Files and BERT training & results for 'pose' and 'voice' author cohorts
+Generic Data Processing for Text Files and BERT training & results for 'pose' and 'voice' author cohorts.
+Data not publicly available but run_model function can be modified to fit any pose/voice texts.
